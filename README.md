@@ -6,7 +6,6 @@ I tested it on four groups of text: human texts from the RAID benchmark, older A
 
 **Post:** [I tested a top AI detector on 2026 models. Here's how much it missed.](SUBSTACK_LINK)
 **Notebook:** [Kaggle](https://www.kaggle.com/code/vraghubir/binoculars-2026-performance-re-evaluation)
-**Data:** [Kaggle datasets](DATASETS_LINK)
 
 ## Results
 
